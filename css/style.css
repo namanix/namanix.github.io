@@ -113,6 +113,14 @@ tr.prob:nth-child(odd) {
     background: #292929;
 }
 
+tr.probGreen:nth-child(even) {
+    background: #445544;
+}
+
+tr.probGreen:nth-child(odd) {
+    background: #556655;
+}
+
 tr.reverseStripe:nth-child(odd) {
     background: #333333;
 }

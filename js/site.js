@@ -7,6 +7,7 @@ var loadedHideout = new Hideout();
 var myDecorations = new Hideout();
 var costsTable = {};
 var showTable = [];
+var useOwnDecorations = false;
 
 var requirements = {};
 
@@ -48,7 +49,7 @@ function fieldSorter(fields) {
 }
 
 $(document).ready(function() {
-    $.getJSON( "dataset.json", function( data ) {
+    $.getJSON( "dataset.json", function( data ) { //From: http://poedb.tw/us/json.php/Hideouts/HideoutDoodads
         //var items = [];
         $.each( data['data'], function( key, val ) {
             //items.push( "<li id='" + key + "'>" + val + "</li>" );
@@ -66,6 +67,15 @@ $(document).ready(function() {
 });
 
 function uploadHideout() {
+    hideoutTxt = "";
+    loadedHideout = new Hideout();
+    myDecorations = new Hideout();
+    costsTable = {};
+    showTable = [];
+    useOwnDecorations = false;
+
+    requirements = {};
+
     if ($('#hideoutFile').get(0).files.length === 0) {
         alert("Select your hideout file");
     } else {
@@ -86,8 +96,26 @@ function handleLoadedHideoutFile(data) {
     if(!lang.startsWith("English")) {
         alert("Currently I only support English");
     } else {
-        calculations();
+        if ($('#ownDecorationsFile').get(0).files.length !== 0) {
+            const reader = new FileReader();
+            reader.onload = event => handleOwnDecorationsFile(event.target.result);
+            reader.onerror = error => reject(error);
+            reader.readAsText($('#ownDecorationsFile').prop('files')[0]);
+        } else {
+            calculations();
+        }
     }
+}
+
+function handleOwnDecorationsFile(data) {
+    myDecorations = hideoutParser(data, myDecorations);
+    var lang = myDecorations.getVars().language;
+    if(!lang.startsWith("English")) {
+        alert("Currently I only support English");
+    } else {
+        useOwnDecorations = true;
+    }
+    calculations();
 }
 
 function hideoutParser(hideoutTxt, hideout) {
@@ -132,7 +160,6 @@ function calculations() {
                 tempDec.setMaster(itemMasters[costIndex]);
                 tempDec.setMasterLevel(itemMasterLevel[costIndex]);
                 costsTable[val[0]] = tempDec;
-
             }
         } else {
             if(costsTable.hasOwnProperty(val[0])) {
@@ -141,14 +168,20 @@ function calculations() {
                 tempDec = new Decoration();
                 tempDec.setName(val[0]);
                 tempDec.setAmount(1);
+                console.log(tempDec.getVars());
                 costsTable[val[0]] = tempDec;
             }
+        }
+    });
+    $.each(myDecorations.getVars().data, function(key, val) {
+        if(costsTable[val[0]] != undefined) {
+            costsTable[val[0]].setOwned((costsTable[val[0]].getVars().Owned + 1));
         }
     });
     //costsTable.sort(SortByName);
     $.each(costsTable, function(key, val) {
         var currentVars = val.getVars();
-        showTable.push({Name: currentVars.Name, Master: currentVars.Master, MasterLevel: currentVars.MasterLevel, Costs: currentVars.Costs, Amount: currentVars.Amount});
+        showTable.push({Name: currentVars.Name, Master: currentVars.Master, MasterLevel: currentVars.MasterLevel, Costs: currentVars.Costs, Amount: currentVars.Amount, Owned: currentVars.Owned});
         if(!currentVars.Master.startsWith("No info")) {
             if (requirements.hasOwnProperty(currentVars.Master)) {
                 if (currentVars.MasterLevel > requirements[currentVars.Master]) {
@@ -158,27 +191,32 @@ function calculations() {
                 requirements[currentVars.Master] = currentVars.MasterLevel;
             }
             if (requirements.hasOwnProperty("TotalCosts")) {
-                requirements["TotalCosts"] = (currentVars.Amount * currentVars.Costs) + requirements["TotalCosts"];
+                requirements["TotalCosts"] = ((currentVars.Amount * currentVars.Costs) - (currentVars.Owned * currentVars.Costs)) + requirements["TotalCosts"];
             } else {
-                requirements["TotalCosts"] = (currentVars.Amount * currentVars.Costs);
+                requirements["TotalCosts"] = (currentVars.Amount * currentVars.Costs) - (currentVars.Owned * currentVars.Costs);
             }
         }
     });
+
     showTable.sort(fieldSorter(['Master', 'MasterLevel', 'Name']));
     $.each(showTable, function(key, val) {
-        html += "<tr class=\"prob\"><td>"+val.Name+"</td><td>"+val.Master+"</td><td>"+val.MasterLevel+"</td><td>"+val.Costs+"</td><td>"+val.Amount+"</td><td>"+(val.Costs*val.Amount)+"</td></tr>";
+        var rowName = "prob";
+        var totalCost = 0;
+        if(val.Owned >= val.Amount) {
+            rowName = "probGreen";
+        } else {
+            totalCost = ((val.Costs*val.Amount) - (val.Owned * val.Costs));
+        }
+        html += "<tr class=\""+rowName+"\"><td>"+val.Name+"</td><td>"+val.Master+"</td><td>"+val.MasterLevel+"</td><td>"+val.Costs+"</td><td>"+val.Owned+"/"+val.Amount+"</td><td>"+totalCost+"</td></tr>";
     });
-    console.log(requirements);
-    $("#resultbody").append(html);
+    $("#resultbody").html(html);
     $.each(requirements, function(key, val) {
-        console.log("REQ");
         if(key != "TotalCosts") {
             reqHtml += key+" Level: "+val+"<br />";
         } else {
             reqHtml = "Total costs: "+addCommas(val)+"<br />"+reqHtml
         }
     });
-    console.log(reqHtml);
-    $(".requirements").append(reqHtml+"<br /><br />");
+    $(".requirements").html(reqHtml+"<br /><br />");
 }
 

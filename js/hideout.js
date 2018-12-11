@@ -72,5 +72,8 @@ var Decoration = function() {
     this.setAmount = function(amount) {
         vars.Amount = amount;
     };
+    this.setOwned = function(owned) {
+        vars.Owned = owned;
+    };
     this.construct();
 };
