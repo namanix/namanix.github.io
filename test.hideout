@@ -1,0 +1,753 @@
+Language = "English"
+Hideout Name = "Unearthed Hideout"
+Hideout Hash = 45200
+
+Stash = { Hash=3230065491, X=324, Y=350, Rot=0, Flip=0, Var=0 }
+Guild Stash = { Hash=139228481, X=307, Y=355, Rot=10239, Flip=0, Var=0 }
+Waypoint = { Hash=1224707366, X=275, Y=438, Rot=6144, Flip=0, Var=4 }
+Crafting Bench = { Hash=2059629901, X=328, Y=316, Rot=16384, Flip=0, Var=0 }
+Map Device = { Hash=2306038834, X=351, Y=349, Rot=0, Flip=0, Var=0 }
+Navali = { Hash=693228958, X=522, Y=303, Rot=49741, Flip=0, Var=0 }
+Einhar = { Hash=2684274993, X=466, Y=273, Rot=46872, Flip=0, Var=0 }
+Alva = { Hash=2115859440, X=232, Y=438, Rot=2725, Flip=0, Var=0 }
+Helena = { Hash=845403974, X=275, Y=388, Rot=58467, Flip=0, Var=0 }
+Niko = { Hash=2906227343, X=386, Y=441, Rot=18665, Flip=0, Var=0 }
+Jun = { Hash=3992724805, X=263, Y=325, Rot=59816, Flip=0, Var=0 }
+Zana = { Hash=3506797600, X=316, Y=365, Rot=14259, Flip=0, Var=0 }
+Forest Flowers = { Hash=1741965589, X=256, Y=518, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=265, Y=516, Rot=16385, Flip=0, Var=3 }
+Hanging Lamp = { Hash=3152505982, X=396, Y=282, Rot=63105, Flip=0, Var=0 }
+Large Pillar = { Hash=2666431861, X=278, Y=318, Rot=0, Flip=0, Var=2 }
+Forest Flowers = { Hash=1741965589, X=262, Y=523, Rot=16385, Flip=0, Var=3 }
+Torture Device = { Hash=1858937977, X=439, Y=414, Rot=38912, Flip=0, Var=2 }
+Ancient Vessel = { Hash=4112801366, X=299, Y=465, Rot=0, Flip=0, Var=3 }
+Candelabrum = { Hash=1837658399, X=359, Y=382, Rot=0, Flip=0, Var=1 }
+Ancient Vessel = { Hash=4112801366, X=300, Y=467, Rot=0, Flip=0, Var=3 }
+Large Pillar = { Hash=2666431861, X=270, Y=327, Rot=49152, Flip=0, Var=3 }
+Candelabrum = { Hash=1837658399, X=371, Y=382, Rot=0, Flip=0, Var=1 }
+Candelabrum = { Hash=1837658399, X=324, Y=382, Rot=0, Flip=0, Var=1 }
+Temple Arch = { Hash=1198326786, X=358, Y=386, Rot=8191, Flip=0, Var=2 }
+Blue Crystal = { Hash=2497621896, X=398, Y=429, Rot=58756, Flip=0, Var=7 }
+Decrepit Fence = { Hash=3966771721, X=342, Y=469, Rot=63488, Flip=0, Var=4 }
+Blue Crystal = { Hash=2497621896, X=413, Y=403, Rot=60647, Flip=0, Var=0 }
+Fortification Door = { Hash=198423894, X=300, Y=365, Rot=10239, Flip=0, Var=2 }
+Blue Crystal = { Hash=2497621896, X=434, Y=396, Rot=26625, Flip=0, Var=5 }
+Blue Crystal = { Hash=2497621896, X=407, Y=422, Rot=10241, Flip=0, Var=5 }
+Journeyman Hideout Banner = { Hash=3220425900, X=310, Y=369, Rot=8191, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=341, Y=469, Rot=0, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=266, Y=467, Rot=2047, Flip=0, Var=3 }
+Fortification Door = { Hash=198423894, X=298, Y=366, Rot=8191, Flip=0, Var=2 }
+Tombstone = { Hash=3083192695, X=274, Y=471, Rot=49152, Flip=0, Var=14 }
+Decrepit Fence = { Hash=3966771721, X=329, Y=469, Rot=2047, Flip=0, Var=4 }
+Tombstone = { Hash=3083192695, X=332, Y=449, Rot=11782, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=282, Y=470, Rot=0, Flip=0, Var=1 }
+Fortification Door = { Hash=198423894, X=297, Y=368, Rot=4095, Flip=0, Var=2 }
+Tombstone = { Hash=3083192695, X=273, Y=493, Rot=32768, Flip=0, Var=12 }
+Tombstone = { Hash=3083192695, X=334, Y=456, Rot=40960, Flip=0, Var=1 }
+Ancient Vessel = { Hash=4112801366, X=289, Y=461, Rot=0, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=342, Y=308, Rot=43006, Flip=0, Var=3 }
+Tombstone = { Hash=3083192695, X=246, Y=492, Rot=61440, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=242, Y=486, Rot=0, Flip=0, Var=2 }
+Falling Leaves = { Hash=3637718225, X=371, Y=470, Rot=0, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=323, Y=447, Rot=8193, Flip=0, Var=0 }
+Large Rocks = { Hash=47342018, X=415, Y=332, Rot=51198, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=323, Y=454, Rot=8191, Flip=0, Var=0 }
+Large Rocks = { Hash=47342018, X=425, Y=341, Rot=57344, Flip=0, Var=0 }
+Large Rocks = { Hash=47342018, X=487, Y=389, Rot=61440, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=231, Y=481, Rot=4095, Flip=0, Var=11 }
+Large Rocks = { Hash=47342018, X=482, Y=377, Rot=57344, Flip=0, Var=0 }
+Large Rocks = { Hash=47342018, X=466, Y=362, Rot=51198, Flip=0, Var=0 }
+Large Rocks = { Hash=47342018, X=413, Y=363, Rot=17785, Flip=0, Var=10 }
+Large Rocks = { Hash=47342018, X=464, Y=386, Rot=11028, Flip=0, Var=10 }
+Large Rocks = { Hash=47342018, X=377, Y=408, Rot=57824, Flip=0, Var=2 }
+Tombstone = { Hash=3083192695, X=334, Y=463, Rot=5683, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=237, Y=478, Rot=32768, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=266, Y=487, Rot=51198, Flip=0, Var=13 }
+Driftwood Log = { Hash=2672828114, X=476, Y=258, Rot=49152, Flip=0, Var=1 }
+Large Rocks = { Hash=47342018, X=395, Y=392, Rot=0, Flip=0, Var=2 }
+Bush = { Hash=645016677, X=383, Y=529, Rot=59390, Flip=0, Var=1 }
+Large Rocks = { Hash=47342018, X=373, Y=415, Rot=60020, Flip=0, Var=10 }
+Tombstone = { Hash=3083192695, X=236, Y=462, Rot=4095, Flip=0, Var=0 }
+Bush = { Hash=645016677, X=222, Y=424, Rot=57712, Flip=0, Var=14 }
+Large Rocks = { Hash=47342018, X=353, Y=430, Rot=0, Flip=0, Var=2 }
+Large Rocks = { Hash=47342018, X=359, Y=456, Rot=45056, Flip=0, Var=10 }
+Tombstone = { Hash=3083192695, X=305, Y=482, Rot=8193, Flip=0, Var=2 }
+Bush = { Hash=645016677, X=223, Y=421, Rot=48776, Flip=0, Var=3 }
+Fortification Door = { Hash=198423894, X=296, Y=371, Rot=2049, Flip=0, Var=2 }
+Tombstone = { Hash=3083192695, X=296, Y=478, Rot=38912, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=305, Y=493, Rot=6144, Flip=0, Var=2 }
+Bush = { Hash=645016677, X=234, Y=416, Rot=63199, Flip=0, Var=4 }
+Large Rocks = { Hash=47342018, X=444, Y=413, Rot=54690, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=311, Y=386, Rot=8191, Flip=0, Var=2 }
+Bush = { Hash=645016677, X=234, Y=385, Rot=0, Flip=0, Var=1 }
+Large Rocks = { Hash=47342018, X=450, Y=396, Rot=0, Flip=0, Var=2 }
+Low Mossy Wall = { Hash=1476284439, X=231, Y=392, Rot=54434, Flip=0, Var=0 }
+Large Rocks = { Hash=47342018, X=443, Y=416, Rot=53248, Flip=0, Var=10 }
+Tombstone = { Hash=3083192695, X=298, Y=494, Rot=38912, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=231, Y=473, Rot=6143, Flip=0, Var=3 }
+Bush = { Hash=645016677, X=243, Y=368, Rot=0, Flip=0, Var=1 }
+Large Rocks = { Hash=47342018, X=442, Y=444, Rot=48036, Flip=0, Var=2 }
+Low Mossy Wall = { Hash=1476284439, X=228, Y=372, Rot=63285, Flip=0, Var=0 }
+Large Rocks = { Hash=47342018, X=437, Y=440, Rot=60537, Flip=0, Var=10 }
+Tombstone = { Hash=3083192695, X=315, Y=445, Rot=45056, Flip=0, Var=3 }
+Large Rocks = { Hash=47342018, X=417, Y=459, Rot=60279, Flip=0, Var=11 }
+Bush = { Hash=645016677, X=247, Y=317, Rot=0, Flip=0, Var=0 }
+Bush = { Hash=645016677, X=275, Y=283, Rot=59390, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=325, Y=462, Rot=36866, Flip=0, Var=2 }
+Tombstone = { Hash=3083192695, X=307, Y=438, Rot=47104, Flip=0, Var=2 }
+Bush = { Hash=645016677, X=337, Y=507, Rot=63488, Flip=0, Var=1 }
+Tombstone = { Hash=3083192695, X=237, Y=471, Rot=0, Flip=0, Var=1 }
+Damaged Barrels = { Hash=89505229, X=282, Y=307, Rot=2047, Flip=0, Var=0 }
+Driftwood Log = { Hash=2672828114, X=472, Y=302, Rot=29819, Flip=0, Var=0 }
+Bush = { Hash=645016677, X=258, Y=518, Rot=59390, Flip=0, Var=4 }
+Damaged Barrels = { Hash=89505229, X=291, Y=299, Rot=24352, Flip=0, Var=4 }
+Garden Wall = { Hash=1908254122, X=320, Y=283, Rot=49152, Flip=0, Var=0 }
+Bush = { Hash=645016677, X=335, Y=475, Rot=43779, Flip=0, Var=3 }
+Bush = { Hash=645016677, X=253, Y=429, Rot=49152, Flip=0, Var=3 }
+Tombstone = { Hash=3083192695, X=309, Y=447, Rot=43006, Flip=0, Var=1 }
+Temple Arch = { Hash=1198326786, X=392, Y=361, Rot=30721, Flip=0, Var=1 }
+Tombstone = { Hash=3083192695, X=266, Y=498, Rot=61440, Flip=0, Var=0 }
+Low Mossy Wall = { Hash=1476284439, X=236, Y=357, Rot=14138, Flip=0, Var=4 }
+Tombstone = { Hash=3083192695, X=231, Y=465, Rot=2047, Flip=0, Var=2 }
+Tombstone = { Hash=3083192695, X=256, Y=485, Rot=4095, Flip=0, Var=0 }
+Bush = { Hash=645016677, X=236, Y=486, Rot=0, Flip=0, Var=2 }
+Yellow Light Beam = { Hash=657990613, X=285, Y=477, Rot=18842, Flip=0, Var=1 }
+Bush = { Hash=645016677, X=280, Y=464, Rot=49152, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=387, Y=319, Rot=20481, Flip=0, Var=1 }
+Oriath Armour Crate = { Hash=1891653249, X=302, Y=357, Rot=1102, Flip=0, Var=0 }
+Low Mossy Wall = { Hash=1476284439, X=241, Y=342, Rot=64419, Flip=0, Var=1 }
+Barrels = { Hash=537404582, X=414, Y=283, Rot=0, Flip=0, Var=0 }
+Low Mossy Wall = { Hash=1476284439, X=248, Y=318, Rot=0, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=274, Y=476, Rot=61441, Flip=0, Var=4 }
+Crypt Rubble = { Hash=1237008312, X=405, Y=431, Rot=0, Flip=0, Var=2 }
+Ancient Vessel = { Hash=4112801366, X=256, Y=457, Rot=0, Flip=0, Var=3 }
+Low Mossy Wall = { Hash=1476284439, X=259, Y=306, Rot=34820, Flip=0, Var=14 }
+Tombstone = { Hash=3083192695, X=266, Y=476, Rot=1, Flip=0, Var=3 }
+Crypt Rubble = { Hash=1237008312, X=385, Y=460, Rot=61440, Flip=0, Var=0 }
+Buckets = { Hash=537321190, X=449, Y=270, Rot=0, Flip=0, Var=0 }
+Crypt Rubble = { Hash=1237008312, X=378, Y=443, Rot=59390, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=283, Y=462, Rot=4095, Flip=0, Var=4 }
+Crypt Rubble = { Hash=1237008312, X=384, Y=433, Rot=16385, Flip=0, Var=0 }
+Crypt Rubble = { Hash=1237008312, X=443, Y=375, Rot=36864, Flip=0, Var=0 }
+Crypt Rubble = { Hash=1237008312, X=431, Y=373, Rot=0, Flip=0, Var=0 }
+Crypt Rubble = { Hash=1237008312, X=429, Y=387, Rot=0, Flip=0, Var=0 }
+Crypt Rubble = { Hash=1237008312, X=426, Y=402, Rot=0, Flip=0, Var=1 }
+Crypt Rubble = { Hash=1237008312, X=412, Y=470, Rot=49152, Flip=0, Var=0 }
+Crypt Rubble = { Hash=1237008312, X=403, Y=465, Rot=0, Flip=0, Var=0 }
+Crypt Rubble = { Hash=1237008312, X=416, Y=417, Rot=0, Flip=0, Var=2 }
+Low Mossy Wall = { Hash=1476284439, X=265, Y=296, Rot=38782, Flip=0, Var=16 }
+Tombstone = { Hash=3083192695, X=251, Y=498, Rot=1, Flip=0, Var=2 }
+Crypt Rubble = { Hash=1237008312, X=415, Y=427, Rot=0, Flip=0, Var=3 }
+Crypt Rubble = { Hash=1237008312, X=421, Y=411, Rot=0, Flip=0, Var=2 }
+Decrepit Fence = { Hash=3966771721, X=267, Y=459, Rot=64213, Flip=0, Var=4 }
+Crypt Rubble = { Hash=1237008312, X=411, Y=403, Rot=2047, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=500, Y=256, Rot=43443, Flip=0, Var=1 }
+Crypt Rubble = { Hash=1237008312, X=403, Y=414, Rot=4095, Flip=0, Var=0 }
+Torture Device = { Hash=1858937977, X=449, Y=391, Rot=2704, Flip=0, Var=2 }
+Crypt Rubble = { Hash=1237008312, X=391, Y=426, Rot=4095, Flip=0, Var=0 }
+Bush = { Hash=645016677, X=294, Y=496, Rot=0, Flip=0, Var=1 }
+Crypt Rubble = { Hash=1237008312, X=395, Y=446, Rot=49152, Flip=0, Var=0 }
+Crypt Rubble = { Hash=1237008312, X=408, Y=448, Rot=34816, Flip=0, Var=0 }
+Ancient Vessel = { Hash=4112801366, X=287, Y=461, Rot=0, Flip=0, Var=5 }
+Low Mossy Wall = { Hash=1476284439, X=276, Y=281, Rot=14337, Flip=0, Var=2 }
+Tombstone = { Hash=3083192695, X=264, Y=492, Rot=0, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=503, Y=284, Rot=24577, Flip=0, Var=3 }
+Decrepit Fence = { Hash=3966771721, X=284, Y=462, Rot=3019, Flip=0, Var=0 }
+Apprentice Hideout Banner = { Hash=1713371118, X=312, Y=377, Rot=16938, Flip=0, Var=0 }
+Study Desk = { Hash=3105586728, X=324, Y=366, Rot=16387, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=590, Y=257, Rot=49152, Flip=0, Var=0 }
+Axiom Pillar = { Hash=528617188, X=271, Y=331, Rot=53216, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=509, Y=373, Rot=26625, Flip=0, Var=3 }
+Axiom Pillar = { Hash=528617188, X=282, Y=319, Rot=60306, Flip=0, Var=0 }
+Large Rocks = { Hash=47342018, X=382, Y=472, Rot=49686, Flip=0, Var=11 }
+Ancient Vessel = { Hash=4112801366, X=277, Y=458, Rot=0, Flip=0, Var=4 }
+Large Shelf = { Hash=1864329593, X=367, Y=427, Rot=8191, Flip=0, Var=1 }
+Tombstone = { Hash=3083192695, X=317, Y=455, Rot=43006, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=274, Y=459, Rot=6, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=513, Y=339, Rot=61150, Flip=0, Var=3 }
+Den Large Stalagmites = { Hash=3479810897, X=530, Y=339, Rot=54789, Flip=0, Var=3 }
+Decrepit Fence = { Hash=3966771721, X=327, Y=468, Rot=4095, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=518, Y=373, Rot=0, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=546, Y=373, Rot=29888, Flip=0, Var=3 }
+Ancient Vessel = { Hash=4112801366, X=280, Y=458, Rot=0, Flip=0, Var=5 }
+Tombstone = { Hash=3083192695, X=252, Y=478, Rot=4095, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=316, Y=463, Rot=56360, Flip=0, Var=4 }
+Bush = { Hash=645016677, X=314, Y=489, Rot=0, Flip=0, Var=1 }
+Den Large Stalagmites = { Hash=3479810897, X=575, Y=373, Rot=0, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=546, Y=339, Rot=38912, Flip=0, Var=3 }
+Den Large Stalagmites = { Hash=3479810897, X=580, Y=353, Rot=29253, Flip=0, Var=3 }
+Den Large Stalagmites = { Hash=3479810897, X=546, Y=333, Rot=56524, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=580, Y=330, Rot=61349, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=326, Y=497, Rot=44209, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=325, Y=496, Rot=61440, Flip=0, Var=4 }
+Forest Flowers = { Hash=1741965589, X=294, Y=433, Rot=0, Flip=0, Var=2 }
+Forest Flowers = { Hash=1741965589, X=267, Y=423, Rot=0, Flip=0, Var=2 }
+Decrepit Fence = { Hash=3966771721, X=318, Y=486, Rot=42465, Flip=0, Var=0 }
+Tombstone = { Hash=3083192695, X=273, Y=321, Rot=8191, Flip=0, Var=15 }
+Den Large Stalagmites = { Hash=3479810897, X=546, Y=302, Rot=55227, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=580, Y=306, Rot=64787, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=546, Y=311, Rot=40741, Flip=0, Var=3 }
+Den Large Stalagmites = { Hash=3479810897, X=546, Y=281, Rot=50077, Flip=0, Var=3 }
+Den Large Stalagmites = { Hash=3479810897, X=580, Y=281, Rot=16385, Flip=0, Var=0 }
+Bush = { Hash=645016677, X=257, Y=461, Rot=61440, Flip=0, Var=2 }
+Decrepit Fence = { Hash=3966771721, X=317, Y=485, Rot=59390, Flip=0, Var=4 }
+Ruined Fence = { Hash=3666457219, X=274, Y=323, Rot=57344, Flip=0, Var=2 }
+Decrepit Fence = { Hash=3966771721, X=309, Y=476, Rot=40960, Flip=0, Var=0 }
+Forest Flowers = { Hash=1741965589, X=298, Y=434, Rot=54856, Flip=0, Var=3 }
+Decrepit Fence = { Hash=3966771721, X=308, Y=475, Rot=56886, Flip=0, Var=4 }
+Den Large Stalagmites = { Hash=3479810897, X=553, Y=247, Rot=0, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=580, Y=267, Rot=4940, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=541, Y=281, Rot=0, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=517, Y=247, Rot=0, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=517, Y=281, Rot=32768, Flip=0, Var=3 }
+Den Large Stalagmites = { Hash=3479810897, X=337, Y=548, Rot=0, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=314, Y=461, Rot=8067, Flip=0, Var=0 }
+Ruined Fence = { Hash=3666457219, X=366, Y=265, Rot=216, Flip=0, Var=2 }
+Bush = { Hash=645016677, X=298, Y=291, Rot=0, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=305, Y=453, Rot=57856, Flip=0, Var=4 }
+Forest Flowers = { Hash=1741965589, X=278, Y=432, Rot=32044, Flip=0, Var=1 }
+Decrepit Fence = { Hash=3966771721, X=298, Y=443, Rot=42601, Flip=0, Var=0 }
+Bush = { Hash=645016677, X=251, Y=420, Rot=57344, Flip=0, Var=1 }
+Tombstone = { Hash=3083192695, X=257, Y=474, Rot=34816, Flip=0, Var=11 }
+Den Large Stalagmites = { Hash=3479810897, X=447, Y=396, Rot=59973, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=397, Y=386, Rot=0, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=439, Y=415, Rot=18992, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=306, Y=473, Rot=5788, Flip=0, Var=0 }
+Ruined Fence = { Hash=3666457219, X=347, Y=265, Rot=59390, Flip=0, Var=2 }
+Hanging Lamp = { Hash=3152505982, X=308, Y=287, Rot=0, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=297, Y=442, Rot=61440, Flip=0, Var=4 }
+Bush = { Hash=645016677, X=292, Y=292, Rot=0, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=296, Y=467, Rot=4095, Flip=0, Var=4 }
+Forest Flowers = { Hash=1741965589, X=304, Y=457, Rot=0, Flip=0, Var=1 }
+Decrepit Fence = { Hash=3966771721, X=294, Y=466, Rot=4095, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=426, Y=441, Rot=54475, Flip=0, Var=0 }
+Den Large Stalagmites = { Hash=3479810897, X=367, Y=462, Rot=0, Flip=0, Var=0 }
+Sulphite Light = { Hash=1999675025, X=279, Y=327, Rot=49152, Flip=0, Var=0 }
+Interrogation Chair = { Hash=3518999610, X=377, Y=348, Rot=12023, Flip=0, Var=1 }
+Tower Archway = { Hash=1357755685, X=264, Y=401, Rot=1, Flip=0, Var=0 }
+Sky Shrine Door = { Hash=1678164433, X=342, Y=390, Rot=0, Flip=0, Var=0 }
+Sky Shrine Door = { Hash=1678164433, X=351, Y=299, Rot=32768, Flip=0, Var=6 }
+Sky Shrine Door = { Hash=1678164433, X=319, Y=386, Rot=32768, Flip=0, Var=0 }
+Sky Shrine Door = { Hash=1678164433, X=366, Y=386, Rot=32769, Flip=0, Var=0 }
+Oriath Guard Shed = { Hash=2493324107, X=276, Y=325, Rot=57592, Flip=0, Var=0 }
+Sky Shrine Door = { Hash=1678164433, X=351, Y=303, Rot=32768, Flip=0, Var=2 }
+Innocence Candle = { Hash=1547125340, X=266, Y=474, Rot=14337, Flip=0, Var=5 }
+Interrogation Chair = { Hash=3518999610, X=371, Y=326, Rot=0, Flip=0, Var=1 }
+Innocence Candle = { Hash=1547125340, X=253, Y=477, Rot=0, Flip=0, Var=6 }
+Innocence Candle = { Hash=1547125340, X=273, Y=491, Rot=32768, Flip=0, Var=0 }
+Oriathan Books = { Hash=3651586296, X=378, Y=360, Rot=10239, Flip=0, Var=13 }
+Innocence Candle = { Hash=1547125340, X=236, Y=469, Rot=0, Flip=0, Var=7 }
+Innocence Candle = { Hash=1547125340, X=246, Y=491, Rot=32768, Flip=0, Var=6 }
+Oriathan Books = { Hash=3651586296, X=375, Y=363, Rot=2225, Flip=0, Var=12 }
+Oriathan Books = { Hash=3651586296, X=383, Y=332, Rot=0, Flip=0, Var=13 }
+Innocence Candle = { Hash=1547125340, X=305, Y=438, Rot=0, Flip=0, Var=6 }
+Oriathan Books = { Hash=3651586296, X=348, Y=345, Rot=0, Flip=0, Var=12 }
+Innocence Candle = { Hash=1547125340, X=323, Y=455, Rot=0, Flip=0, Var=6 }
+Oriathan Books = { Hash=3651586296, X=348, Y=353, Rot=51276, Flip=0, Var=11 }
+Innocence Candle = { Hash=1547125340, X=330, Y=448, Rot=32768, Flip=0, Var=0 }
+Oriathan Books = { Hash=3651586296, X=354, Y=345, Rot=55419, Flip=0, Var=8 }
+Innocence Candle = { Hash=1547125340, X=333, Y=464, Rot=0, Flip=0, Var=0 }
+Oriathan Books = { Hash=3651586296, X=357, Y=348, Rot=13928, Flip=0, Var=12 }
+Innocence Candle = { Hash=1547125340, X=279, Y=483, Rot=0, Flip=0, Var=6 }
+Innocence Candle = { Hash=1547125340, X=279, Y=480, Rot=10241, Flip=0, Var=6 }
+Innocence Candle = { Hash=1547125340, X=283, Y=479, Rot=0, Flip=0, Var=2 }
+Innocence Candle = { Hash=1547125340, X=286, Y=479, Rot=47104, Flip=0, Var=6 }
+Innocence Candle = { Hash=1547125340, X=278, Y=481, Rot=55296, Flip=0, Var=6 }
+Innocence Candle = { Hash=1547125340, X=281, Y=479, Rot=51198, Flip=0, Var=7 }
+Bathhouse Rug = { Hash=1466017967, X=272, Y=345, Rot=49152, Flip=0, Var=0 }
+Iron Candelabra = { Hash=1047396527, X=226, Y=424, Rot=0, Flip=0, Var=2 }
+Iron Candelabra = { Hash=1047396527, X=236, Y=418, Rot=0, Flip=0, Var=2 }
+Oriath Statue = { Hash=596544799, X=282, Y=482, Rot=57344, Flip=0, Var=3 }
+Oriath Statue = { Hash=596544799, X=288, Y=485, Rot=14493, Flip=0, Var=1 }
+Oriath Statue = { Hash=596544799, X=284, Y=486, Rot=32768, Flip=0, Var=2 }
+Snowy Hay Bale = { Hash=2011402032, X=430, Y=246, Rot=63491, Flip=0, Var=1 }
+Barnacles = { Hash=1006259064, X=427, Y=262, Rot=51932, Flip=0, Var=4 }
+Barnacles = { Hash=1006259064, X=434, Y=309, Rot=49152, Flip=0, Var=4 }
+Barnacles = { Hash=1006259064, X=443, Y=345, Rot=58775, Flip=0, Var=0 }
+Snowy Hay Bale = { Hash=2011402032, X=421, Y=238, Rot=12289, Flip=0, Var=1 }
+Ramshackle Ladder = { Hash=1181347509, X=455, Y=305, Rot=50315, Flip=0, Var=0 }
+Mine Cart = { Hash=1601481162, X=397, Y=430, Rot=43006, Flip=0, Var=0 }
+Ornate Planter = { Hash=4239052294, X=372, Y=284, Rot=0, Flip=0, Var=20 }
+Mine Cart = { Hash=1601481162, X=408, Y=421, Rot=8191, Flip=0, Var=0 }
+Ornate Planter = { Hash=4239052294, X=334, Y=283, Rot=0, Flip=0, Var=19 }
+Verdant Tree = { Hash=853529689, X=419, Y=492, Rot=23115, Flip=0, Var=14 }
+Image of Tora = { Hash=3206957483, X=267, Y=511, Rot=55296, Flip=0, Var=0 }
+Innocence Statue Pedestal = { Hash=2782740334, X=348, Y=389, Rot=32768, Flip=0, Var=0 }
+Court Bookcase = { Hash=3736953161, X=366, Y=384, Rot=16385, Flip=0, Var=10 }
+Jury Stand = { Hash=2357757056, X=389, Y=381, Rot=38914, Flip=0, Var=11 }
+Iron Lantern = { Hash=2253722405, X=252, Y=459, Rot=3, Flip=0, Var=2 }
+Jury Stand = { Hash=2357757056, X=394, Y=315, Rot=28678, Flip=0, Var=10 }
+Innocence Side Table = { Hash=871661872, X=384, Y=346, Rot=32768, Flip=0, Var=0 }
+Courthouse Desk = { Hash=4119296993, X=383, Y=347, Rot=49152, Flip=0, Var=3 }
+Writing Desk = { Hash=1015730179, X=373, Y=319, Rot=36864, Flip=0, Var=0 }
+Writing Desk = { Hash=1015730179, X=384, Y=364, Rot=21729, Flip=0, Var=0 }
+Reading Desk = { Hash=28014178, X=341, Y=384, Rot=16385, Flip=0, Var=1 }
+Reading Desk = { Hash=28014178, X=376, Y=371, Rot=8191, Flip=0, Var=0 }
+Innocence Statue Pedestal = { Hash=2782740334, X=334, Y=390, Rot=0, Flip=0, Var=0 }
+Sky Shrine Door = { Hash=1678164433, X=351, Y=300, Rot=0, Flip=0, Var=2 }
+Sky Shrine Door = { Hash=1678164433, X=320, Y=297, Rot=0, Flip=0, Var=0 }
+Sky Shrine Door = { Hash=1678164433, X=382, Y=297, Rot=0, Flip=0, Var=0 }
+Sky Shrine Door = { Hash=1678164433, X=396, Y=348, Rot=16385, Flip=0, Var=0 }
+Sky Shrine Door = { Hash=1678164433, X=388, Y=368, Rot=22529, Flip=0, Var=0 }
+Sky Shrine Door = { Hash=1678164433, X=390, Y=326, Rot=12289, Flip=0, Var=0 }
+Court Bookcase = { Hash=3736953161, X=317, Y=384, Rot=16385, Flip=0, Var=13 }
+Court Bookcase = { Hash=3736953161, X=390, Y=347, Rot=0, Flip=0, Var=13 }
+Court Bookcase = { Hash=3736953161, X=397, Y=336, Rot=49152, Flip=0, Var=13 }
+Court Bookcase = { Hash=3736953161, X=389, Y=347, Rot=0, Flip=0, Var=12 }
+Azurite Chunk = { Hash=3568237130, X=385, Y=451, Rot=0, Flip=0, Var=0 }
+Azurite Chunk = { Hash=3568237130, X=432, Y=405, Rot=55690, Flip=0, Var=3 }
+Snow Drift = { Hash=3744632886, X=488, Y=291, Rot=0, Flip=0, Var=15 }
+Snow Drift = { Hash=3744632886, X=484, Y=290, Rot=0, Flip=0, Var=0 }
+Snow Drift = { Hash=3744632886, X=492, Y=309, Rot=49152, Flip=0, Var=1 }
+Snow Drift = { Hash=3744632886, X=485, Y=310, Rot=57344, Flip=0, Var=1 }
+Snow Drift = { Hash=3744632886, X=438, Y=248, Rot=28673, Flip=0, Var=3 }
+Sky Shrine Door = { Hash=1678164433, X=342, Y=390, Rot=32768, Flip=0, Var=6 }
+Snow Drift = { Hash=3744632886, X=465, Y=315, Rot=0, Flip=0, Var=0 }
+Verdant Tree = { Hash=853529689, X=240, Y=379, Rot=16387, Flip=0, Var=8 }
+Snow Drift = { Hash=3744632886, X=436, Y=316, Rot=49152, Flip=0, Var=14 }
+Verdant Tree = { Hash=853529689, X=258, Y=518, Rot=0, Flip=0, Var=14 }
+Snow Drift = { Hash=3744632886, X=420, Y=297, Rot=32768, Flip=0, Var=4 }
+Verdant Tree = { Hash=853529689, X=332, Y=441, Rot=0, Flip=0, Var=1 }
+Snow Drift = { Hash=3744632886, X=434, Y=305, Rot=0, Flip=0, Var=0 }
+Verdant Tree = { Hash=853529689, X=399, Y=527, Rot=49152, Flip=0, Var=14 }
+Snow Drift = { Hash=3744632886, X=430, Y=262, Rot=45795, Flip=0, Var=2 }
+Verdant Tree = { Hash=853529689, X=361, Y=531, Rot=32768, Flip=0, Var=12 }
+Snow Drift = { Hash=3744632886, X=465, Y=283, Rot=0, Flip=0, Var=1 }
+Verdant Tree = { Hash=853529689, X=348, Y=484, Rot=32768, Flip=0, Var=13 }
+Snow Drift = { Hash=3744632886, X=454, Y=255, Rot=0, Flip=0, Var=1 }
+Snow Drift = { Hash=3744632886, X=443, Y=300, Rot=41929, Flip=0, Var=0 }
+Snow Drift = { Hash=3744632886, X=480, Y=323, Rot=49152, Flip=0, Var=15 }
+Verdant Tree = { Hash=853529689, X=284, Y=417, Rot=6738, Flip=0, Var=12 }
+Snow Drift = { Hash=3744632886, X=488, Y=236, Rot=0, Flip=0, Var=15 }
+Dominus Portrait = { Hash=528599513, X=341, Y=385, Rot=1, Flip=0, Var=0 }
+Snow Drift = { Hash=3744632886, X=450, Y=224, Rot=0, Flip=0, Var=0 }
+Verdant Tree = { Hash=853529689, X=271, Y=285, Rot=49152, Flip=0, Var=12 }
+Snow Drift = { Hash=3744632886, X=408, Y=239, Rot=57843, Flip=0, Var=1 }
+Iron Candelabra = { Hash=1047396527, X=354, Y=387, Rot=49152, Flip=0, Var=6 }
+Snow Drift = { Hash=3744632886, X=409, Y=224, Rot=32768, Flip=0, Var=5 }
+Iron Candelabra = { Hash=1047396527, X=259, Y=517, Rot=63097, Flip=0, Var=1 }
+Snow Drift = { Hash=3744632886, X=422, Y=260, Rot=49152, Flip=0, Var=0 }
+Snow Drift = { Hash=3744632886, X=460, Y=239, Rot=0, Flip=0, Var=4 }
+Snow Drift = { Hash=3744632886, X=515, Y=299, Rot=0, Flip=0, Var=15 }
+Snow Drift = { Hash=3744632886, X=448, Y=343, Rot=49152, Flip=0, Var=2 }
+Snow Drift = { Hash=3744632886, X=425, Y=320, Rot=49152, Flip=0, Var=15 }
+Snow Drift = { Hash=3744632886, X=425, Y=289, Rot=61440, Flip=0, Var=15 }
+Snow Drift = { Hash=3744632886, X=470, Y=272, Rot=8191, Flip=0, Var=0 }
+Snow Drift = { Hash=3744632886, X=473, Y=260, Rot=61440, Flip=0, Var=15 }
+Snow Drift = { Hash=3744632886, X=452, Y=310, Rot=55296, Flip=0, Var=15 }
+Lantern Post = { Hash=1629432330, X=363, Y=289, Rot=49152, Flip=0, Var=0 }
+Snow Drift = { Hash=3744632886, X=464, Y=297, Rot=32768, Flip=0, Var=0 }
+Sky Shrine Pillar = { Hash=3580884248, X=341, Y=297, Rot=0, Flip=0, Var=0 }
+Snow Drift = { Hash=3744632886, X=430, Y=244, Rot=0, Flip=0, Var=0 }
+Sky Shrine Pillar = { Hash=3580884248, X=361, Y=297, Rot=0, Flip=0, Var=0 }
+Snow Drift = { Hash=3744632886, X=441, Y=279, Rot=32768, Flip=0, Var=4 }
+Snow Drift = { Hash=3744632886, X=448, Y=271, Rot=0, Flip=0, Var=4 }
+Snow Drift = { Hash=3744632886, X=440, Y=353, Rot=0, Flip=0, Var=14 }
+Snow Drift = { Hash=3744632886, X=443, Y=364, Rot=0, Flip=0, Var=15 }
+Snow Drift = { Hash=3744632886, X=463, Y=338, Rot=0, Flip=0, Var=15 }
+Iron Lantern = { Hash=2253722405, X=283, Y=462, Rot=6143, Flip=0, Var=2 }
+Iron Lantern = { Hash=2253722405, X=308, Y=475, Rot=10241, Flip=0, Var=2 }
+Iron Lantern = { Hash=2253722405, X=325, Y=496, Rot=16385, Flip=0, Var=2 }
+Iron Lantern = { Hash=2253722405, X=385, Y=340, Rot=36864, Flip=0, Var=2 }
+Wide Light Beam = { Hash=698746183, X=427, Y=406, Rot=40960, Flip=0, Var=0 }
+Wide Light Beam = { Hash=698746183, X=403, Y=447, Rot=49152, Flip=0, Var=0 }
+Falling Leaves = { Hash=3637718225, X=410, Y=500, Rot=0, Flip=0, Var=0 }
+Falling Leaves = { Hash=3637718225, X=395, Y=511, Rot=0, Flip=0, Var=0 }
+Large Shelf = { Hash=1864329593, X=445, Y=395, Rot=36866, Flip=0, Var=1 }
+Large Shelf = { Hash=1864329593, X=427, Y=436, Rot=38912, Flip=0, Var=1 }
+Falling Leaves = { Hash=3637718225, X=353, Y=523, Rot=0, Flip=0, Var=0 }
+Wasteland Campsite = { Hash=1234049767, X=232, Y=422, Rot=0, Flip=0, Var=7 }
+Temple Arch = { Hash=1198326786, X=390, Y=288, Rot=40960, Flip=0, Var=1 }
+Temple Arch = { Hash=1198326786, X=374, Y=288, Rot=8191, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=328, Y=287, Rot=40960, Flip=0, Var=1 }
+Temple Arch = { Hash=1198326786, X=312, Y=287, Rot=8191, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=312, Y=290, Rot=8191, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=393, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=328, Y=293, Rot=40960, Flip=0, Var=1 }
+Temple Arch = { Hash=1198326786, X=312, Y=300, Rot=8191, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=312, Y=298, Rot=8191, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=312, Y=295, Rot=8191, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=317, Y=311, Rot=22529, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=310, Y=310, Rot=16385, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=285, Y=363, Rot=16385, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=297, Y=326, Rot=32768, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=341, Y=397, Rot=0, Flip=0, Var=1 }
+Fortification Door = { Hash=198423894, X=314, Y=395, Rot=35869, Flip=0, Var=1 }
+Temple Arch = { Hash=1198326786, X=375, Y=299, Rot=8191, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=375, Y=297, Rot=8191, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=391, Y=291, Rot=40960, Flip=0, Var=1 }
+Temple Arch = { Hash=1198326786, X=375, Y=294, Rot=8191, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=391, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=389, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=387, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=385, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=383, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=381, Y=310, Rot=49152, Flip=0, Var=0 }
+Ice Bricks = { Hash=2631061518, X=446, Y=280, Rot=15534, Flip=0, Var=2 }
+Ice Bricks = { Hash=2631061518, X=445, Y=278, Rot=10098, Flip=0, Var=2 }
+Ice Gale = { Hash=1018876256, X=499, Y=287, Rot=32768, Flip=0, Var=0 }
+Ice Gale = { Hash=1018876256, X=496, Y=269, Rot=32768, Flip=0, Var=0 }
+Ice Frog = { Hash=661482351, X=449, Y=278, Rot=2683, Flip=0, Var=0 }
+Ice Gale = { Hash=1018876256, X=498, Y=262, Rot=32770, Flip=0, Var=0 }
+Atlas Table = { Hash=905347170, X=324, Y=365, Rot=49161, Flip=0, Var=0 }
+Ice Frog = { Hash=661482351, X=447, Y=279, Rot=53988, Flip=0, Var=0 }
+Ice Frog = { Hash=661482351, X=448, Y=279, Rot=16384, Flip=0, Var=0 }
+Ice Bricks = { Hash=2631061518, X=450, Y=278, Rot=55197, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=379, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=377, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=375, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=373, Y=310, Rot=49152, Flip=0, Var=0 }
+Ice Gale = { Hash=1018876256, X=498, Y=271, Rot=32768, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=371, Y=310, Rot=49152, Flip=0, Var=0 }
+Tree = { Hash=1654000752, X=252, Y=408, Rot=20773, Flip=0, Var=3 }
+Tree = { Hash=1654000752, X=261, Y=550, Rot=36864, Flip=0, Var=1 }
+Wagon Debris = { Hash=4294952976, X=361, Y=305, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=344, Y=312, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=360, Y=312, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=309, Y=329, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=314, Y=331, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=304, Y=340, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=316, Y=340, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=284, Y=344, Rot=52984, Flip=0, Var=2 }
+Wagon Debris = { Hash=4294952976, X=347, Y=352, Rot=8193, Flip=0, Var=4 }
+Wagon Debris = { Hash=4294952976, X=301, Y=348, Rot=61440, Flip=0, Var=0 }
+Wagon Debris = { Hash=4294952976, X=292, Y=342, Rot=8193, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=321, Y=323, Rot=30721, Flip=0, Var=0 }
+Wagon Debris = { Hash=4294952976, X=322, Y=343, Rot=47104, Flip=0, Var=0 }
+Wagon Debris = { Hash=4294952976, X=337, Y=320, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=354, Y=360, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=352, Y=369, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=374, Y=321, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=373, Y=330, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=371, Y=347, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=372, Y=339, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=390, Y=333, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=371, Y=353, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=366, Y=362, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=364, Y=371, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=379, Y=360, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=381, Y=368, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=364, Y=378, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=378, Y=375, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=327, Y=321, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=338, Y=330, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=329, Y=330, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=300, Y=349, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=313, Y=348, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=329, Y=338, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=338, Y=339, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=340, Y=369, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=324, Y=378, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=318, Y=377, Rot=40960, Flip=0, Var=3 }
+Temple Arch = { Hash=1198326786, X=369, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=331, Y=310, Rot=49152, Flip=0, Var=0 }
+Fortification Door = { Hash=198423894, X=301, Y=379, Rot=18433, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=329, Y=310, Rot=49152, Flip=0, Var=0 }
+Fortification Door = { Hash=198423894, X=302, Y=379, Rot=22529, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=327, Y=310, Rot=49152, Flip=0, Var=0 }
+Fortification Door = { Hash=198423894, X=300, Y=378, Rot=24577, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=300, Y=378, Rot=26625, Flip=0, Var=2 }
+Bastinado = { Hash=2968645109, X=262, Y=349, Rot=8193, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=263, Y=350, Rot=8191, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=264, Y=351, Rot=8191, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=261, Y=341, Rot=24577, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=262, Y=340, Rot=24577, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=263, Y=339, Rot=24577, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=264, Y=338, Rot=24577, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=443, Y=282, Rot=63486, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=354, Y=292, Rot=40960, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=355, Y=293, Rot=40960, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=356, Y=294, Rot=40960, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=357, Y=295, Rot=40960, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=347, Y=292, Rot=24577, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=323, Y=310, Rot=49156, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=346, Y=293, Rot=24577, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=325, Y=310, Rot=49154, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=345, Y=294, Rot=24577, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=321, Y=310, Rot=49152, Flip=0, Var=0 }
+Bastinado = { Hash=2968645109, X=344, Y=295, Rot=24577, Flip=0, Var=0 }
+Oriath Army Barrel = { Hash=621951002, X=421, Y=279, Rot=20077, Flip=0, Var=4 }
+Oriath Army Barrel = { Hash=621951002, X=313, Y=376, Rot=58397, Flip=0, Var=4 }
+Decrepit Fence = { Hash=3966771721, X=263, Y=459, Rot=0, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=228, Y=453, Rot=4095, Flip=0, Var=4 }
+Decrepit Fence = { Hash=3966771721, X=239, Y=457, Rot=4095, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=261, Y=349, Rot=40946, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=252, Y=459, Rot=0, Flip=0, Var=4 }
+Decrepit Fence = { Hash=3966771721, X=268, Y=333, Rot=57344, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=294, Y=430, Rot=47104, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=293, Y=429, Rot=63490, Flip=0, Var=4 }
+Decrepit Fence = { Hash=3966771721, X=240, Y=457, Rot=2047, Flip=0, Var=4 }
+Vaal Sarcophagus = { Hash=3054251840, X=275, Y=324, Rot=40960, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=251, Y=459, Rot=2049, Flip=0, Var=3 }
+Wide Light Beam = { Hash=698746183, X=419, Y=431, Rot=47104, Flip=0, Var=0 }
+Decrepit Fence = { Hash=3966771721, X=361, Y=298, Rot=8191, Flip=0, Var=0 }
+Weathered Pot = { Hash=2280944272, X=250, Y=312, Rot=0, Flip=0, Var=2 }
+Decrepit Fence = { Hash=3966771721, X=347, Y=291, Rot=57344, Flip=0, Var=0 }
+Wagon Debris = { Hash=4294952976, X=342, Y=365, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=335, Y=365, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=319, Y=368, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=311, Y=369, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=342, Y=356, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=326, Y=359, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=318, Y=359, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=295, Y=363, Rot=38912, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=302, Y=362, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=306, Y=351, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=314, Y=351, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=330, Y=348, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=342, Y=347, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=351, Y=377, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=338, Y=378, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=348, Y=333, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=348, Y=324, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=369, Y=313, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=361, Y=322, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=358, Y=332, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=351, Y=342, Rot=40960, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=361, Y=340, Rot=8191, Flip=0, Var=3 }
+Wagon Debris = { Hash=4294952976, X=356, Y=352, Rot=6143, Flip=0, Var=3 }
+Blue Crystal = { Hash=2497621896, X=412, Y=442, Rot=51586, Flip=0, Var=6 }
+Library Statue = { Hash=799006003, X=307, Y=273, Rot=0, Flip=0, Var=0 }
+Falling Leaves = { Hash=3637718225, X=339, Y=487, Rot=0, Flip=0, Var=0 }
+Falling Leaves = { Hash=3637718225, X=257, Y=509, Rot=0, Flip=0, Var=0 }
+Peacock Pet = { Hash=1218131746, X=230, Y=425, Rot=11273, Flip=0, Var=0 }
+Peacock Pet = { Hash=1218131746, X=236, Y=421, Rot=49152, Flip=0, Var=0 }
+Oriath Fence = { Hash=2841262969, X=264, Y=392, Rot=22941, Flip=0, Var=2 }
+Crypt Tomb = { Hash=1934098746, X=391, Y=283, Rot=65356, Flip=0, Var=9 }
+Wide Light Beam = { Hash=698746183, X=264, Y=404, Rot=59390, Flip=0, Var=0 }
+Fortification Door = { Hash=198423894, X=300, Y=379, Rot=30721, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=300, Y=378, Rot=32768, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=286, Y=363, Rot=20481, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=288, Y=343, Rot=16385, Flip=0, Var=2 }
+Webbed Tree = { Hash=123134105, X=416, Y=319, Rot=32768, Flip=0, Var=0 }
+Webbed Tree = { Hash=123134105, X=591, Y=336, Rot=0, Flip=0, Var=0 }
+Webbed Tree = { Hash=123134105, X=570, Y=396, Rot=0, Flip=0, Var=9 }
+Webbed Tree = { Hash=123134105, X=487, Y=369, Rot=49152, Flip=0, Var=0 }
+Webbed Tree = { Hash=123134105, X=496, Y=383, Rot=0, Flip=0, Var=0 }
+Webbed Tree = { Hash=123134105, X=521, Y=390, Rot=0, Flip=0, Var=0 }
+Fortification Door = { Hash=198423894, X=284, Y=343, Rot=16385, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=284, Y=362, Rot=21871, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=284, Y=362, Rot=24577, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=280, Y=360, Rot=58823, Flip=0, Var=2 }
+White Fern = { Hash=382419789, X=427, Y=288, Rot=63488, Flip=0, Var=26 }
+Forest Flowers = { Hash=1741965589, X=290, Y=431, Rot=64055, Flip=0, Var=1 }
+Forest Flowers = { Hash=1741965589, X=305, Y=457, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=245, Y=331, Rot=8836, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=278, Y=383, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=276, Y=288, Rot=45056, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=241, Y=369, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=309, Y=445, Rot=0, Flip=0, Var=2 }
+Forest Flowers = { Hash=1741965589, X=252, Y=318, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=330, Y=461, Rot=49152, Flip=0, Var=1 }
+Forest Flowers = { Hash=1741965589, X=323, Y=446, Rot=59390, Flip=0, Var=1 }
+Forest Flowers = { Hash=1741965589, X=329, Y=460, Rot=49152, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=310, Y=444, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=224, Y=424, Rot=4278, Flip=0, Var=3 }
+Chopped Wood = { Hash=2110332123, X=475, Y=275, Rot=62806, Flip=0, Var=0 }
+Forest Flowers = { Hash=1741965589, X=235, Y=415, Rot=56487, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=229, Y=433, Rot=4095, Flip=0, Var=1 }
+Forest Flowers = { Hash=1741965589, X=242, Y=429, Rot=0, Flip=0, Var=1 }
+Forest Flowers = { Hash=1741965589, X=252, Y=446, Rot=1, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=244, Y=429, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=295, Y=459, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=305, Y=490, Rot=0, Flip=0, Var=2 }
+Clay Pot = { Hash=1547716202, X=441, Y=275, Rot=16385, Flip=0, Var=1 }
+Clay Pot = { Hash=1547716202, X=445, Y=271, Rot=0, Flip=0, Var=4 }
+Clay Pot = { Hash=1547716202, X=440, Y=278, Rot=0, Flip=0, Var=0 }
+Forest Flowers = { Hash=1741965589, X=285, Y=477, Rot=0, Flip=0, Var=2 }
+Forest Flowers = { Hash=1741965589, X=259, Y=472, Rot=0, Flip=0, Var=1 }
+Forest Flowers = { Hash=1741965589, X=235, Y=472, Rot=0, Flip=0, Var=2 }
+Forest Flowers = { Hash=1741965589, X=307, Y=489, Rot=49152, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=294, Y=475, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=259, Y=473, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=234, Y=477, Rot=49152, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=340, Y=511, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=341, Y=483, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=305, Y=476, Rot=49152, Flip=0, Var=2 }
+Forest Flowers = { Hash=1741965589, X=357, Y=466, Rot=0, Flip=0, Var=0 }
+Forest Flowers = { Hash=1741965589, X=317, Y=465, Rot=0, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=283, Y=452, Rot=0, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=319, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=317, Y=310, Rot=49152, Flip=0, Var=0 }
+Rope = { Hash=146925798, X=437, Y=282, Rot=30721, Flip=0, Var=0 }
+Driftwood Branches = { Hash=3410090953, X=464, Y=334, Rot=61440, Flip=0, Var=1 }
+Driftwood Branches = { Hash=3410090953, X=421, Y=263, Rot=54715, Flip=0, Var=2 }
+Driftwood Branches = { Hash=3410090953, X=451, Y=354, Rot=27247, Flip=0, Var=5 }
+Driftwood Branches = { Hash=3410090953, X=428, Y=332, Rot=12762, Flip=0, Var=0 }
+Driftwood Branches = { Hash=3410090953, X=457, Y=311, Rot=16385, Flip=0, Var=0 }
+Driftwood Branches = { Hash=3410090953, X=415, Y=281, Rot=32768, Flip=0, Var=0 }
+Driftwood Branches = { Hash=3410090953, X=460, Y=240, Rot=16385, Flip=0, Var=0 }
+Driftwood Branches = { Hash=3410090953, X=434, Y=242, Rot=34816, Flip=0, Var=0 }
+Driftwood Branches = { Hash=3410090953, X=341, Y=487, Rot=53248, Flip=0, Var=11 }
+Driftwood Branches = { Hash=3410090953, X=355, Y=494, Rot=0, Flip=0, Var=0 }
+Driftwood Branches = { Hash=3410090953, X=240, Y=440, Rot=49152, Flip=0, Var=10 }
+Driftwood Branches = { Hash=3410090953, X=233, Y=486, Rot=0, Flip=0, Var=3 }
+Driftwood Branches = { Hash=3410090953, X=298, Y=486, Rot=0, Flip=0, Var=0 }
+Driftwood Branches = { Hash=3410090953, X=255, Y=330, Rot=49152, Flip=0, Var=0 }
+Driftwood Branches = { Hash=3410090953, X=280, Y=376, Rot=0, Flip=0, Var=1 }
+Driftwood Branches = { Hash=3410090953, X=274, Y=285, Rot=0, Flip=0, Var=0 }
+Driftwood Branches = { Hash=3410090953, X=234, Y=384, Rot=0, Flip=0, Var=11 }
+Driftwood Branches = { Hash=3410090953, X=246, Y=382, Rot=48195, Flip=0, Var=1 }
+Driftwood Branches = { Hash=3410090953, X=251, Y=318, Rot=0, Flip=0, Var=0 }
+White Fern = { Hash=382419789, X=460, Y=297, Rot=27924, Flip=0, Var=22 }
+Fellshrine Ruins = { Hash=981114828, X=330, Y=408, Rot=1, Flip=0, Var=0 }
+Shore Rocks = { Hash=3568693209, X=236, Y=417, Rot=4095, Flip=0, Var=7 }
+Temple Arch = { Hash=1198326786, X=315, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=313, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=311, Y=310, Rot=49152, Flip=0, Var=0 }
+Thick Trees = { Hash=2603050131, X=334, Y=526, Rot=17549, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=309, Y=310, Rot=49152, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=280, Y=352, Rot=57344, Flip=0, Var=2 }
+Church Pillar = { Hash=250920715, X=443, Y=282, Rot=0, Flip=0, Var=3 }
+Fortification Door = { Hash=198423894, X=277, Y=356, Rot=63275, Flip=0, Var=2 }
+Church Pillar = { Hash=250920715, X=451, Y=274, Rot=0, Flip=0, Var=1 }
+Fortification Door = { Hash=198423894, X=278, Y=358, Rot=60774, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=303, Y=314, Rot=50418, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=302, Y=314, Rot=47592, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=301, Y=314, Rot=44201, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=300, Y=312, Rot=8551, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=299, Y=313, Rot=6429, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=298, Y=315, Rot=4559, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=297, Y=321, Rot=34681, Flip=0, Var=2 }
+Church Pillar = { Hash=250920715, X=271, Y=402, Rot=0, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=278, Y=327, Rot=57346, Flip=0, Var=2 }
+Church Pillar = { Hash=250920715, X=270, Y=324, Rot=45056, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=274, Y=325, Rot=57346, Flip=0, Var=2 }
+Church Pillar = { Hash=250920715, X=258, Y=401, Rot=0, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=289, Y=325, Rot=48451, Flip=0, Var=2 }
+Church Pillar = { Hash=250920715, X=267, Y=357, Rot=0, Flip=0, Var=2 }
+Raven Pet = { Hash=496100570, X=267, Y=484, Rot=57265, Flip=0, Var=0 }
+Church Pillar = { Hash=250920715, X=265, Y=334, Rot=0, Flip=0, Var=2 }
+Church Pillar = { Hash=250920715, X=264, Y=335, Rot=57941, Flip=0, Var=2 }
+Church Pillar = { Hash=250920715, X=265, Y=355, Rot=0, Flip=0, Var=2 }
+Church Pillar = { Hash=250920715, X=264, Y=353, Rot=0, Flip=0, Var=2 }
+Church Pillar = { Hash=250920715, X=264, Y=337, Rot=0, Flip=0, Var=2 }
+Church Pillar = { Hash=250920715, X=275, Y=319, Rot=57344, Flip=0, Var=2 }
+Ghostly Fog = { Hash=1095937131, X=446, Y=277, Rot=0, Flip=0, Var=0 }
+Ghostly Fog = { Hash=1095937131, X=477, Y=250, Rot=0, Flip=0, Var=0 }
+Ghostly Fog = { Hash=1095937131, X=476, Y=248, Rot=0, Flip=0, Var=0 }
+Ghostly Fog = { Hash=1095937131, X=447, Y=277, Rot=0, Flip=0, Var=0 }
+Fortification Door = { Hash=198423894, X=286, Y=326, Rot=47571, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=285, Y=326, Rot=45056, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=282, Y=327, Rot=45056, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=277, Y=334, Rot=39174, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=277, Y=335, Rot=36864, Flip=0, Var=2 }
+Fortification Door = { Hash=198423894, X=278, Y=358, Rot=61440, Flip=0, Var=2 }
+Crypt Pillar = { Hash=905558075, X=282, Y=330, Rot=0, Flip=0, Var=3 }
+Fellshrine Ruins = { Hash=981114828, X=369, Y=415, Rot=0, Flip=0, Var=2 }
+Crypt Pillar = { Hash=905558075, X=337, Y=300, Rot=0, Flip=0, Var=3 }
+Crypt Pillar = { Hash=905558075, X=365, Y=300, Rot=0, Flip=0, Var=3 }
+Stone Archway = { Hash=3635834173, X=394, Y=288, Rot=0, Flip=0, Var=0 }
+Metal Beam = { Hash=3754117086, X=268, Y=356, Rot=40960, Flip=0, Var=0 }
+Metal Beam = { Hash=3754117086, X=264, Y=337, Rot=57344, Flip=0, Var=4 }
+Vaal Marker = { Hash=3521706261, X=358, Y=503, Rot=40903, Flip=0, Var=2 }
+Raven Pet = { Hash=496100570, X=231, Y=473, Rot=0, Flip=0, Var=0 }
+Dry Tree = { Hash=1908709992, X=256, Y=549, Rot=49152, Flip=0, Var=0 }
+Dry Tree = { Hash=1908709992, X=250, Y=537, Rot=32768, Flip=0, Var=0 }
+Dry Tree = { Hash=1908709992, X=300, Y=488, Rot=0, Flip=0, Var=2 }
+Dry Tree = { Hash=1908709992, X=267, Y=542, Rot=0, Flip=0, Var=0 }
+Thick Trees = { Hash=2603050131, X=293, Y=542, Rot=12289, Flip=0, Var=2 }
+Thick Trees = { Hash=2603050131, X=332, Y=548, Rot=49152, Flip=0, Var=0 }
+Large Pillar = { Hash=2666431861, X=267, Y=336, Rot=32768, Flip=0, Var=3 }
+Large Pillar = { Hash=2666431861, X=267, Y=353, Rot=0, Flip=0, Var=3 }
+Driftwood Log = { Hash=2672828114, X=232, Y=443, Rot=61440, Flip=0, Var=14 }
+Driftwood Log = { Hash=2672828114, X=279, Y=279, Rot=0, Flip=0, Var=14 }
+Driftwood Log = { Hash=2672828114, X=250, Y=384, Rot=32451, Flip=0, Var=2 }
+Stone Well = { Hash=963026563, X=447, Y=278, Rot=49152, Flip=0, Var=0 }
+Gilded Spiked Chair = { Hash=2550198933, X=281, Y=373, Rot=4596, Flip=0, Var=0 }
+Gilded Spiked Chair = { Hash=2550198933, X=267, Y=357, Rot=12289, Flip=0, Var=0 }
+Gilded Spiked Chair = { Hash=2550198933, X=266, Y=332, Rot=20233, Flip=0, Var=0 }
+Gilded Spiked Chair = { Hash=2550198933, X=282, Y=315, Rot=30128, Flip=0, Var=0 }
+Garden Wall = { Hash=1908254122, X=385, Y=283, Rot=49152, Flip=0, Var=0 }
+Shore Rocks = { Hash=3568693209, X=226, Y=424, Rot=63491, Flip=0, Var=7 }
+Shore Rocks = { Hash=3568693209, X=259, Y=518, Rot=53248, Flip=0, Var=7 }
+Shore Rocks = { Hash=3568693209, X=250, Y=417, Rot=43006, Flip=0, Var=7 }
+Shore Rocks = { Hash=3568693209, X=297, Y=428, Rot=59394, Flip=0, Var=7 }
+Webbed Tree = { Hash=123134105, X=535, Y=241, Rot=0, Flip=0, Var=0 }
+Forest Flowers = { Hash=1741965589, X=228, Y=429, Rot=32768, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=265, Y=431, Rot=49152, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=292, Y=427, Rot=47104, Flip=0, Var=3 }
+Forest Flowers = { Hash=1741965589, X=273, Y=449, Rot=49152, Flip=0, Var=3 }
+Temple Arch = { Hash=1198326786, X=277, Y=351, Rot=57344, Flip=0, Var=2 }
+Temple Arch = { Hash=1198326786, X=274, Y=351, Rot=57344, Flip=0, Var=2 }
+Webbed Tree = { Hash=123134105, X=497, Y=235, Rot=0, Flip=0, Var=0 }
+Temple Arch = { Hash=1198326786, X=271, Y=351, Rot=57344, Flip=0, Var=2 }
+Webbed Tree = { Hash=123134105, X=464, Y=239, Rot=49152, Flip=0, Var=1 }
+Temple Arch = { Hash=1198326786, X=269, Y=351, Rot=57082, Flip=0, Var=2 }
+White Fern = { Hash=382419789, X=470, Y=266, Rot=0, Flip=0, Var=25 }
+Road Trim = { Hash=3047058999, X=407, Y=484, Rot=49152, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=405, Y=487, Rot=16385, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=406, Y=500, Rot=53248, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=398, Y=513, Rot=57344, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=385, Y=522, Rot=61440, Flip=0, Var=5 }
+Chopped Wood = { Hash=2110332123, X=282, Y=274, Rot=45058, Flip=0, Var=0 }
+Road Trim = { Hash=3047058999, X=391, Y=513, Rot=26625, Flip=0, Var=0 }
+Road Trim = { Hash=3047058999, X=378, Y=525, Rot=30721, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=373, Y=520, Rot=63488, Flip=0, Var=0 }
+Road Trim = { Hash=3047058999, X=301, Y=459, Rot=6143, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=351, Y=511, Rot=47104, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=346, Y=509, Rot=39459, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=336, Y=502, Rot=43006, Flip=0, Var=4 }
+Road Trim = { Hash=3047058999, X=338, Y=495, Rot=7847, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=326, Y=493, Rot=45056, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=330, Y=482, Rot=14337, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=320, Y=482, Rot=47104, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=245, Y=460, Rot=53249, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=245, Y=452, Rot=63130, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=252, Y=451, Rot=62034, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=267, Y=444, Rot=63893, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=257, Y=444, Rot=63491, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=269, Y=435, Rot=22529, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=268, Y=441, Rot=57344, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=267, Y=406, Rot=14458, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=264, Y=396, Rot=49152, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=257, Y=348, Rot=22529, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=259, Y=350, Rot=18248, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=254, Y=360, Rot=14337, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=254, Y=367, Rot=49152, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=259, Y=371, Rot=47104, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=261, Y=382, Rot=47164, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=257, Y=383, Rot=48471, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=320, Y=470, Rot=10239, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=312, Y=473, Rot=40960, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=356, Y=522, Rot=4095, Flip=0, Var=4 }
+Road Trim = { Hash=3047058999, X=356, Y=519, Rot=49152, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=298, Y=454, Rot=43006, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=297, Y=456, Rot=10480, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=286, Y=451, Rot=41301, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=286, Y=444, Rot=39116, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=277, Y=444, Rot=44417, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=307, Y=462, Rot=6143, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=273, Y=431, Rot=43337, Flip=0, Var=5 }
+Road Trim = { Hash=3047058999, X=272, Y=419, Rot=12287, Flip=0, Var=1 }
+Road Trim = { Hash=3047058999, X=263, Y=412, Rot=45056, Flip=0, Var=1 }
+Road Trim = { Hash=3047058999, X=267, Y=400, Rot=13794, Flip=0, Var=0 }
+Road Trim = { Hash=3047058999, X=261, Y=400, Rot=49152, Flip=0, Var=5 }
+Formosan Deer Pet = { Hash=3160864226, X=262, Y=516, Rot=59258, Flip=0, Var=0 }
+Formosan Deer Pet = { Hash=3160864226, X=255, Y=518, Rot=0, Flip=0, Var=0 }
+Fellshrine Ruins = { Hash=981114828, X=319, Y=416, Rot=0, Flip=0, Var=2 }
+Fellshrine Ruins = { Hash=981114828, X=394, Y=298, Rot=32768, Flip=0, Var=6 }
+Fellshrine Ruins = { Hash=981114828, X=305, Y=301, Rot=32768, Flip=0, Var=6 }
+Fellshrine Ruins = { Hash=981114828, X=396, Y=376, Rot=63486, Flip=0, Var=7 }
+Fellshrine Ruins = { Hash=981114828, X=389, Y=315, Rot=26627, Flip=0, Var=6 }
+Fellshrine Ruins = { Hash=981114828, X=394, Y=359, Rot=36042, Flip=0, Var=0 }
+Fellshrine Ruins = { Hash=981114828, X=397, Y=337, Rot=61440, Flip=0, Var=0 }
+Webbed Tree = { Hash=123134105, X=418, Y=289, Rot=49152, Flip=0, Var=3 }
+Webbed Tree = { Hash=123134105, X=432, Y=236, Rot=0, Flip=0, Var=0 }
+Stone Archway = { Hash=3635834173, X=307, Y=292, Rot=0, Flip=0, Var=0 }
+Webbed Tree = { Hash=123134105, X=461, Y=304, Rot=49152, Flip=0, Var=1 }
+Webbed Tree = { Hash=123134105, X=477, Y=267, Rot=49152, Flip=0, Var=0 }
+Webbed Tree = { Hash=123134105, X=500, Y=322, Rot=49152, Flip=0, Var=2 }
+Webbed Tree = { Hash=123134105, X=495, Y=346, Rot=32768, Flip=0, Var=2 }
+Webbed Tree = { Hash=123134105, X=471, Y=339, Rot=0, Flip=0, Var=0 }
+Karui Carving = { Hash=206049659, X=527, Y=324, Rot=57344, Flip=0, Var=2 }
+Karui Carving = { Hash=206049659, X=527, Y=318, Rot=53248, Flip=0, Var=0 }
+Karui Carving = { Hash=206049659, X=521, Y=326, Rot=63488, Flip=0, Var=1 }
+Karui Carving = { Hash=206049659, X=522, Y=322, Rot=63490, Flip=0, Var=0 }
+Snow Drift = { Hash=3744632886, X=523, Y=322, Rot=28673, Flip=0, Var=0 }
+Snow Drift = { Hash=3744632886, X=523, Y=315, Rot=0, Flip=0, Var=15 }
+Sulphite Light = { Hash=1999675025, X=528, Y=325, Rot=57344, Flip=0, Var=4 }
+Karui Carving = { Hash=206049659, X=532, Y=320, Rot=55298, Flip=0, Var=4 }
+Glowing Embers = { Hash=3678754958, X=533, Y=331, Rot=0, Flip=0, Var=1 }
+Maulhead Basket = { Hash=3574547445, X=522, Y=316, Rot=0, Flip=0, Var=0 }
+Sulphite Light = { Hash=1999675025, X=528, Y=325, Rot=59391, Flip=0, Var=0 }

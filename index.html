@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>Vorici Chromatic Calculator</title>
+    <meta name="description" content="Path of Exile chromatic cost calculator for Vorici master crafting and raw chromatic orbs." />
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link rel="icon" type="image/png" href="Chromatic_Orb.png"/>
+
+    <script type="text/javascript" src="js/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="js/hideout.js"></script>
+    <script type="text/javascript" src="js/site.js"></script>
+</head>
+<body><div class="wrapper">
+    <div class="core">
+        <h1><a style="color: #EEEEEE; text-decoration: none;" href="http://siveran.github.io/calc.html">Hideout calculator</a></h1>
+        <p>Use this to calculate the costs of a hideout file. It will also tell you which masters you need at what level and let you import your own decorations to calculate exactly what you need to pay.</p>
+        <hr>
+        <div class="form">
+            <table class="formTable">
+                <tr class="formRow socks">
+                    <td class="rowTitle">Upload hideout file</td>
+                    <td>
+                        <input type="file" name="hideout" class="entry white" id="hideoutFile" />
+                    </td>
+                </tr>
+                <tr class="formRow socks">
+                    <td class="rowTitle">Upload your hideout file</td>
+                    <td>
+                        <input type="file" name="ownDecorations" class="entry white" id="ownDecorationsFile" />
+                    </td>
+                </tr>
+                <tr class="formRow reqs">
+                    <td class="rowTitle">Calculate</td>
+                    <td class="accept">
+                        <button id="calcButton" class="go" onclick="uploadHideout();">Calculate</button>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <hr>
+        <div class="results">
+            <span class="requirements"></span>
+            <table class="result sortable" id="result">
+                <thead>
+                <tr class="prob">
+                    <th>Decoration name</th>
+                    <th>Buy from</th>
+                    <th>Master level</th>
+                    <th>Costs</th>
+                    <th>Amount</th>
+                    <th>Total costs</th>
+                </tr>
+                </thead>
+                <tbody id="resultbody">
+
+                </tbody>
+                <tbody id="recycle">
+
+                </tbody>
+            </table>
+        </div>
+        <div class="etc">
+            <hr>
+            <br>
+            <br>Used Siveran's template for the same look and feel
+            <br>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Siveran/siveran.github.io/commits/master">Changelog</a> | <a href="https://github.com/Siveran/siveran.github.io">Source Code</a> | <a href="poedata3.csv">Item Data</a>
+            <br>Made by <a href="http://www.pathofexile.com/account/view-profile/Siveran">Siveran</a>. Last updated Aug 4, 2017.
+            <br>CC0 2017
+        </div>
+    </div>
+</div></body>
+</html>
