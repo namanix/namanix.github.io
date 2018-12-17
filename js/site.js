@@ -179,8 +179,10 @@ function calculations() {
         }
     });
     //costsTable.sort(SortByName);
+    requirements["TotalAmount"] = 0;
     $.each(costsTable, function(key, val) {
         var currentVars = val.getVars();
+        requirements["TotalAmount"] += currentVars.Amount;
         showTable.push({Name: currentVars.Name, Master: currentVars.Master, MasterLevel: currentVars.MasterLevel, Costs: currentVars.Costs, Amount: currentVars.Amount, Owned: currentVars.Owned});
         if(!currentVars.Master.startsWith("No info")) {
             if (requirements.hasOwnProperty(currentVars.Master)) {
@@ -211,10 +213,14 @@ function calculations() {
     });
     $("#resultbody").html(html);
     $.each(requirements, function(key, val) {
-        if(key != "TotalCosts") {
+        if(key != "TotalCosts" && key != "TotalAmount") {
             reqHtml += key+" Level: "+val+"<br />";
         } else {
-            reqHtml = "Total costs: "+addCommas(val)+"<br />"+reqHtml
+            if(key == "TotalAmount") {
+                reqHtml = "Total decorations: "+addCommas(val)+"<br />"+reqHtml
+            } else {
+                reqHtml = "Total costs: "+addCommas(val)+"<br />"+reqHtml
+            }
         }
     });
     $(".requirements").html(reqHtml+"<br /><br />");
